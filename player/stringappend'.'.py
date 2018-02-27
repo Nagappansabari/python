@@ -1,0 +1,5 @@
+x=raw_input("enter the string")
+d=x.split()
+d.append(".")
+x=''.join(d)
+print (x)
